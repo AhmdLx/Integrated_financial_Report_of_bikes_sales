@@ -4,6 +4,7 @@
 Welcome to the Advanced Financial Analysis of Bike Sales project. This comprehensive analysis leverages advanced data analytics and strategic financial modeling to transform raw bike sales data into actionable insights. 
 ##### My approach includes meticulous research and carefully crafted assumptions, ensuring the project's financial integration mirrors real-world scenarios.
 
+
 ## Key Highlights:
 
 ### Data Precision and Geographic Insights
