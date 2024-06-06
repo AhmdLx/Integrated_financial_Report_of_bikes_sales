@@ -7,7 +7,7 @@ Welcome to the Advanced Financial Analysis of Bike Sales project. This comprehen
 
 ## Key Highlights:
 
-### Data Precision and Geographic Insights
+### Data Precision
 #### 1/ Corrected Financial Data: 
 Usage of DAX functions to rectify discrepancies in profit, cost, and revenue raw columns, ensuring data accuracy.
 #### 2/ Geographic Accuracy: 
