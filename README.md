@@ -14,8 +14,6 @@ Usage of DAX functions to rectify discrepancies in profit, cost, and revenue raw
 Raw data inconsistencies (e.g., "Nord" in Burkina Faso, not France) for accurate geographic analysis.
 #### 3/ Date Table: 
 Created a comprehensive Date Table using DAX.
-#### 4/ Demographic Trends: 
-Analyzed trends to identify top-profit countries and high-value age groups, informing targeted marketing strategies.
 
 ### Strategic Financial Integration
 #### 1/ Financial Metrics: 
