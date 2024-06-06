@@ -8,15 +8,22 @@ Welcome to the Advanced Financial Analysis of Bike Sales project. This comprehen
 ## Key Highlights:
 
 ### Data Precision and Geographic Insights
-Corrected Financial Data: Usage of DAX functions to rectify discrepancies in profit, cost, and revenue raw columns, ensuring data accuracy.
-Geographic Accuracy: Raw data inconsistencies (e.g., "Nord" in Burkina Faso, not France) for accurate geographic analysis.
-Date Table: Created a comprehensive Date Table using DAX.
-Demographic Trends: Analyzed trends to identify top-profit countries and high-value age groups, informing targeted marketing strategies.
+#### 1/ Corrected Financial Data: 
+Usage of DAX functions to rectify discrepancies in profit, cost, and revenue raw columns, ensuring data accuracy.
+#### 2/ Geographic Accuracy: 
+Raw data inconsistencies (e.g., "Nord" in Burkina Faso, not France) for accurate geographic analysis.
+#### 3/ Date Table: 
+Created a comprehensive Date Table using DAX.
+#### 4/ Demographic Trends: 
+Analyzed trends to identify top-profit countries and high-value age groups, informing targeted marketing strategies.
 
 ### Strategic Financial Integration
-Financial Metrics: Integrated financial data, forecasting Fixed Expenses with a 5% annual increase. Calculated precise KPIs such as Break-even Point and Net Profit Margin.
-Research and Assumptions: Conducted detailed research on Fixed and Operating Expenses for subcategories, acknowledging real-world variations while maintaining a robust conceptual framework.
-Variable Expenses: Applied differentiated expense ratios based on product categories and countries to reflect actual financial dynamics.
+#### 1/ Financial Metrics: 
+Integrated financial data, forecasting Fixed Expenses with a 5% annual increase. Calculated precise KPIs such as Break-even Point and Net Profit Margin.
+#### 1/ Research and Assumptions: 
+Conducted detailed research on Fixed and Operating Expenses for subcategories, acknowledging real-world variations while maintaining a robust conceptual framework.
+#### 1/ Variable Expenses: 
+Applied differentiated expense ratios based on product categories and countries to reflect actual financial dynamics.
 
 ### Key Performance Indicators (KPIs)
 #### Gross Profit: Revenue - Cost Price
