@@ -44,8 +44,7 @@ Identified 2015 as the highest net profit year, with Q2 and June as peak periods
 Determined the USA as the highest net profit country and Adults (35-64) as the most profitable age group.
 #### Product Performance: 
 Highlighted mountain bikes, helmets, and mountain shorts as top performers.
-## Recommendations: 
+### Recommendations: 
 Suggested removing "Jerseys" due to high costs and low profits, and a slight price increase for "Caps" to enhance profitability.
 
-
-For a comprehensive exploration of this project, including methodologies and visual representations, I invite you to visit the project repository.
+#### For a comprehensive exploration of this project, including methodologies and visual representations, I invite you to visit the project repository.
